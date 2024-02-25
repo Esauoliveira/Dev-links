@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-feito por esau oliveiraz 
+feito por esau oliveira 
